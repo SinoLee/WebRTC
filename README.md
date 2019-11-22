@@ -33,6 +33,9 @@ https://webrtc.org/native-code/ios/
 #### Samples
 	https://github.com/webrtc/samples/
 
+### Workint Package Info
+	getting date : 2019.11.21
+	
 * suporot bitcode option
   ```
   $ python build_ios_libs.py --bitcode
