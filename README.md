@@ -2,7 +2,7 @@
 
 https://webrtc.org/native-code/ios/
 
-### 1. Clon 'tools'
+### 1. Clone 'tools'
 	$ git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 
 ### 2. Add 'tools' path
